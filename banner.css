@@ -1,0 +1,78 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.align
+{
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+    font-size: 13px;
+    margin-top: 20px;
+   
+    
+}
+.sono
+{
+    height: 80px;
+    width: 60px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 630px;
+}
+.sono1
+{
+    height: 50px;
+    width: 55px;
+}
+header
+{
+    background-color: rgb(30, 30, 55);
+    height: 55px;
+    color: white;
+}
+.top-head
+{
+    color: white;
+    margin-left: 90px;
+    
+}
+body
+{
+    background-color: black;
+    background-image: url(boy-listening-music-headphones-with-eyes-closed_155003-29797.jpg);
+    background-size: 1000px 650px;
+    background-position: right;
+    background-repeat: no-repeat;
+    font-family: Comic Sans MS;
+}
+.content
+{
+    margin-top: 80px;
+    padding-right: 700px;
+}
+.para
+{
+    margin-top: 30px;
+    padding-right: 550px;
+}
+.button
+{
+    margin-top: 20px;
+}
+.top-head1
+{
+    color: white;
+}
+.button1
+{
+    border-radius: 20px;
+    width: 180px;
+    height: 30px;
+    border: 2px solid white;
+    color: black;
+    background-color: #3BC8E7;
+    font-weight: 700;
+}
